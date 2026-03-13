@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1f1c2c,100:928dab&text=Mehmet%20Uza&fontSize=45&fontColor=f2f2f2&fontAlignY=40&animation=fadeIn&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=928DAB&size=26&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Mobile+and+Web+Apps;Learning+and+Creating" />
+</p>
 
-<!--
-**muV3/muV3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Mehmet 👋
+Final-year Software Engineering student at Atılım University.<br>
+Interested in building clean and practical software solutions, especially in mobile and web development.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Flutter ToDo App**  
+  A clean and minimal task management mobile application.  
+  https://github.com/muV3/flutter-todo-app
+
+## Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## What I'm working on
+- Learning React to build the frontend dashboard for our senior project
+- Practicing data structures and algorithms
+- Solving LeetCode problems
