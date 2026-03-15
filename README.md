@@ -11,9 +11,8 @@ Interested in building clean and practical software solutions, especially in mob
 
 ## Projects
 
-- **Flutter ToDo App**  
+- [**Flutter ToDo App**](https://github.com/muV3/flutter-todo-app)<br>
   A clean and minimal task management mobile application.  
-  https://github.com/muV3/flutter-todo-app
 
 ## Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
