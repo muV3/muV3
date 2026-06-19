@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1f1c2c,100:928dab&text=Mehmet%20Uza&fontSize=45&fontColor=f2f2f2&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=55" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=928DAB&size=26&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Mobile+and+Web+Apps;Learning+and+Creating" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=928DAB&size=26&center=true&vCenter=true&width=600&lines=Software+Engineering+Graduate;Building+Web+and+Mobile+Apps;Learning+and+Creating" />
 </p>
 
 ## Hi, I'm Mehmet 👋
-Final-year Software Engineering student at Atılım University.<br>
-Interested in building clean and practical software solutions, especially in mobile and web development fields.
+Software Engineering graduate from Atılım University.<br>
+Interested in building clean and practical software solutions, especially in web and mobile development fields.
 
 ## Projects
 
